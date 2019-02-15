@@ -1,0 +1,16 @@
+{
+  "name": "travelling_salesman_problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geopoint": "^1.0.1",
+    "google-distance": "^1.0.1",
+    "node_or_tools": "^1.0.6"
+  }
+}
